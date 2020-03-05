@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="btn_text">Ок</string>
+    <string name="password_hint_text">Password</string>
+    <string name="rb2_text">Спарятать</string>
+    <string name="rb1_text">Показать</string>
+    <string name="tv_text"></string>
+</resources>
